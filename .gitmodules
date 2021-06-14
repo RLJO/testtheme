@@ -1,0 +1,4 @@
+[submodule "WithHookahOrg/alan_theme_14"]
+	path = WithHookahOrg/alan_theme_14
+	url = git@github.com:WithHookahOrg/alan_theme_14.git
+	branch = 14.0
